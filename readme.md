@@ -1,4 +1,4 @@
-### My name is Kirill. I'm a beginner developer from Russia (Ru)
+### My name is Kirill. I'm a developer from Russia (Ru)
 - I'm currently working at outstaff company.
 - I’m passionate about improving my Go and programming skills.
 - How to reach me: [telegram](t.me/KentoNion), [email](mrKentoNion@gmail.com)
