@@ -6,5 +6,5 @@
 ### 💻Tech Stack🛠:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=golang,ubuntu,windows,postgres,sqlite,docker,postman,obsidian," />
+  <img src="https://skillicons.dev/icons?i=golang,ubuntu,arch,windows,postgres,sqlite,docker,postman,obsidian," />
 </p>
